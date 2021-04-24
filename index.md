@@ -1,14 +1,1 @@
-
-<html>
-	<head>
-		<title>Caravel Cardano Pool Stake - Building</title>
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-
-	</head><body>
-	<div align="center">
-		<img src="work-building.gif" width="800" height="600" text="Caravel Cardano Pool Stake - Building" alt="Caravel Cardano Pool Stake - Building"></div>
-
-</body>
-
-</html>
+<div align="center"><img src="work-building.gif" width="800" height="600" text="Caravel Cardano Pool Stake - Building" alt="Caravel Cardano Pool Stake - Building"></div>
